@@ -1,7 +1,8 @@
 # Project: Bikers' Paradise
 
-Live Site Link: () <br>
-Server Side Repo: ()
+Live Site Link: (https://bikers-paradise-bb298.web.app/) <br>
+Server Side Repo: (https://github.com/iammostofakabir/lastBackend
+)
 
 #
 
